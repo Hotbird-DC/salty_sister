@@ -1,11 +1,11 @@
 import React, {Component} from 'react';
 
-class Home extends Component {
+class NotFound extends Component {
 
     render() {
         return (
 
-            <h1>Home</h1>
+            <h1>404 Note Found</h1>
 
         );
     };
@@ -13,4 +13,4 @@ class Home extends Component {
 };
 
 
-export default Home;
+export default NotFound;
